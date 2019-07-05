@@ -1,4 +1,4 @@
-## React SSR
+# React SSR
 
 Server side-rendering is crucial for a whole lot of reasons.
 

@@ -1,4 +1,4 @@
-## Mediahuis Backend Exercise
+# Mediahuis Backend Exercise
 
 This is an all-round exercise to test several facets of your programming skills. You shouldn't spend more than 3 hours on it. If you don't finish the exercise in this timeframe, that's no issue as long as you can write down/explain how you would further finish the exercise.
 
