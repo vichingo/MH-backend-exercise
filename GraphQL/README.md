@@ -26,5 +26,11 @@ Steps taken:
     npm i --save-dev nodemon
     ```
 
-3. create server.js to request data
+3. create index.js to request data
 4. make schema
+5. Get data from REST API with resolvers
+6. Test by running Appollo server .....
+
+### END
+
+I struggled to get the arguments across in the Appollo server.

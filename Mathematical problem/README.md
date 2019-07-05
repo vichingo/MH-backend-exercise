@@ -29,7 +29,7 @@ which has a sum of 15, thus your API should return 15.
 
 ## Solution
 
-npm init
+I have the solution for the 1D array, and found somecodeto make it works for a 2D, but cpp code did not convert that easy :(
 
 ```cpp
 #include<bits/stdc++.h>
